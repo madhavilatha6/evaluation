@@ -1,8 +1,8 @@
 
 function display() {
-      var firstname = document.getElementById("firstName").value;
-      var lastname = document.getElementById("lastName").value;
-      var delaytime = document.getElementById("delayTime").value;
+      var firstname = document.getElementById("firstname").value;
+      var lastname = document.getElementById("lastname").value;
+      var delaytime = document.getElementById("delaytime").value;
 
       setTimeout(function() {
         var fullName = firstname+ lastname;
