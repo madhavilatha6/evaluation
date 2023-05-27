@@ -1,0 +1,35 @@
+#firstname{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+}
+#lastname{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+}
+#delaytime{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+}
+#btn{
+    padding: 10px 30px;
+    margin-left: 100px;
+}
+#main{
+    border: 3px solid white;
+   width: 300px;
+   height: 300px;
+   padding: 20px;
+   margin: auto;
+   margin-top: 180px;
+   background-color: white;
+  border-radius: 30px;
+
+}
+h1{
+    text-align: center;
+}
+
+                        
